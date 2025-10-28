@@ -10,4 +10,5 @@ node *deleteR(node *head){
         free(head);
     }
     
+
 }
