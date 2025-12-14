@@ -1,0 +1,13 @@
+Algo1() : O(n)
+
+Algo2() : O(n^2)
+
+Algo3() : O(log2n)
+
+Algo4() : O(log5n)
+
+Algo5() : O(logn^3)
+
+Algo6() : O(n^1/2)
+
+Algo7() : O(n^1/2)
